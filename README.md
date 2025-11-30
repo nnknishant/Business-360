@@ -3,6 +3,7 @@ Created a Power BI Report of AtliQ Hardware Company for implement the data analy
 
 In this Report I have used the below Tech stacks for the help of creating a Dashboards.
 
+
 1.SQL
 2.Power BI Desktop
 3.Excel

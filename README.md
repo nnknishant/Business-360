@@ -3,6 +3,8 @@ Created a Power BI Report of AtliQ Hardware Company for implement the data analy
 
 In this Report I have used the below Tech stacks for the help of creating a Dashboards.
 
+Report Link: https://app.powerbi.com/groups/me/reports/b7d72543-7356-471a-957e-56ff6bf3b8e9?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&experience=power-bi
+
 
 1.SQL
 2.Power BI Desktop
